@@ -12,7 +12,7 @@ define('MAIL_HOST',      'smtp.gmail.com');
 define('MAIL_PORT',      587);
 define('MAIL_USER',      'your_gmail@gmail.com');
 define('MAIL_PASS',      'xxxx xxxx xxxx xxxx'); // Gmail App Password
-define('APP_URL',        'http://localhost:8888/tablespot');
+define('APP_URL',        'http://tablespot.rf.gd');
 
 function send_mail(string $to, string $subject, string $htmlBody): bool
 {

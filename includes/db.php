@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 // Подключение к БД (PDO)
 
-$host = 'localhost';
-$dbname = 'tablespot';
-$username = 'root';
-$password = 'root'; // стандартный пароль MAMP
+$host = 'sql301.infinityfree.com';
+$dbname = 'if0_42016706_tablespot';
+$username = 'if0_42016706';
+$password = 'p3lBZH1fb0ZeCc';
 
 try {
     $pdo = new PDO(
