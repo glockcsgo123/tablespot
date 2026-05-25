@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <title>TableSpot</title>
+
+  <!-- Icon: table + location pin -->
+  <g transform="translate(0, 2)">
+    <rect x="0" y="44" width="48" height="6" rx="3" fill="#D4A017"/>
+    <rect x="3" y="50" width="5" height="26" rx="2.5" fill="#D4A017"/>
+    <rect x="40" y="50" width="5" height="26" rx="2.5" fill="#D4A017"/>
+    <circle cx="24" cy="28" r="11" fill="none" stroke="#D4A017" stroke-width="2.5"/>
+    <circle cx="24" cy="28" r="4.5" fill="#D4A017"/>
+    <path d="M24 39 L17 29 Q24 14 31 29 Z" fill="#D4A017"/>
+  </g>
+
+  <!-- Text -->
+  <text x="66" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#F0EDE6">Table</text>
+  <text x="234" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#D4A017">Spot</text>
+</svg>
